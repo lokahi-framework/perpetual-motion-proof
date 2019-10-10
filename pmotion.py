@@ -1,3 +1,6 @@
+"""
+Some documentation to describe this module.
+"""
 import math
 
 # This function returns the energy output of our perpetual motion machine.
