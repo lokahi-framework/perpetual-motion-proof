@@ -6,4 +6,4 @@ def pmotion():
     return energy
 
 def something_else():
-    return 2
+    return 1
