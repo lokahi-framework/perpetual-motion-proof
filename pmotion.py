@@ -5,3 +5,6 @@ def pmotion():
     energy = 42.0 + 1 * math.inf
     # Add some code to fix the issue
     return energy
+
+def something_else():
+    return 1
