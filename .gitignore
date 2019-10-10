@@ -1,0 +1,13 @@
+# Ignore entire directories
+build/
+tmp/
+foo/bar/
+
+# Ignore individual files
+output.pdf
+
+# Ignore multiple files
+*.tar.gz
+*.wav
+baz/output.*.bin
+
